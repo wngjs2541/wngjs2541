@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hello! 👋
+
+## Skill
+- C
+- Python
+- flutter
+
+
+## 🌱 studying
+- [JavaScript]
+- [html]
+- [css]
+- [TypeScript]
+- [Node.js]
+
+
+
+## 📫 연락처
+- 이메일: [hjh2541@gmail.com]
+
+
 
 <!--
 **wngjs2541/wngjs2541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
