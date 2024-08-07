@@ -1,25 +1,9 @@
 ![header](https://mblogvideo-phinf.pstatic.net/MjAxOTA0MjlfMzcg/MDAxNTU2NDcwNDM5ODk0.8udvZU6CZdTUYIolzMgrlcEMqlJsDcfDRwYMTs72PBcg.ykPS8XFB9Eza1Uw2XCLCha-nENTSVj1Ap2B5KxaQMaAg.GIF.ponytales/15d0cd0ba19195eb6.gif?type=mp4w800)
 
-# Hello! 👋
-
-## 💻 Skill
-- C
-- Python
-- flutter
-
-
-## 🌱 studying
-- [JavaScript]
-- [html]
-- [css]
-- [TypeScript]
-- [Node.js]
-
-
-
-## 📫 contect
-- E-mail: [hjh2541@gmail.com]
-
+# Hi
+<div>
+  
+</div>
 
 
 <!--
