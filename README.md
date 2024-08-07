@@ -15,8 +15,8 @@
 
 
 
-## 📫 연락처
-- 이메일: [hjh2541@gmail.com]
+## 📫 contect
+- E-mail: [hjh2541@gmail.com]
 
 
 
