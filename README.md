@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm JuHeon 👨‍💻
+# Digging and Digging 👨‍💻
 ![dog](https://github.com/wngjs2541/wngjs2541/blob/main/15d0cd0ba19195eb6.gif?raw=true)
 
 </div>
